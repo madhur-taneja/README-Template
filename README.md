@@ -1,6 +1,6 @@
 # Project Title
 
-![Mention Version Here](https://img.shields.io/badge/version-v0.0.1-blue)
+![Current Version](https://img.shields.io/badge/version-v0.1-blue)
 ![GitHub contributors](https://img.shields.io/github/contributors/madhur-taneja/README-Template)
 ![GitHub stars](https://img.shields.io/github/stars/madhur-taneja/README-Template?style=social)
 ![GitHub forks](https://img.shields.io/github/forks/madhur-taneja/README-Template?style=social)
@@ -8,9 +8,9 @@
 
 A template for README files that can be used for your future projects. A small description about the project, shields as well as the link to your repo.
 
-Open and view the Project using the `.zip` file provided or at my [Github Repository](https://github.com/madhur-taneja/README-Template)
+Open and view the Project using the `.zip` file provided or at my [GitHub Repository]
 
-The project is also hosted on [Github](https://madhur-taneja.github.io/README-Template)
+The project is also hosted on [GitHub Pages]
 
 ## Table of Contents
 - [Getting Started](#getting-started)
@@ -39,9 +39,8 @@ The project might have multiple branches: `master`, `development`, etc. which ca
 Other details that need to be given while starting out with the project can be provided in this section. A project structure like below can also be included for the big projects:
 
 ```
-	my-app
+	project-title
 	├── README.md
-	├── node_modules
 	├── package.json
 	├── .gitignore
 	├── public
@@ -117,25 +116,25 @@ This section is completely optional. Add additional notes about how to deploy th
 
 Mention what you expect from the people who want to contribute
 
-We'd love to have your helping hand on `Project Title`! See [CONTRIBUTING.md](https://github.com/madhur-taneja/README-template/blob/master/CONTRIBUTING.md) for more information on what we're looking for and how to get started.
+We'd love to have your helping hand on `Project Title`! See [CONTRIBUTING.md] for more information on what we're looking for and how to get started.
 
 ## Versioning
 
 If your project has multiple versions, include information about it here. 
 
-For the available versions, see the [tags on this repository](https://github.com/madhur-taneja/README-template/tags)
+For the available versions, see the [tags on this repository][tags]
 
 ## Authors
 
 #### Madhur Taneja
-* [Github](https://github.com/madhur-taneja)
-* [LinkedIn](https://www.linkedin.com/in/madhur-taneja/)
+* [GitHub]
+* [LinkedIn]
 
-You can also see the complete [list of contributors](https://github.com/madhur-taneja/README-template/contributors) who participated in this project.
+You can also see the complete [list of contributors][contributors] who participated in this project.
 
 ## License
 
-`Project Title` is open source software [licensed as MIT](https://github.com/madhur-taneja/README-template/blob/master/LICENSE.md).
+`Project Title` is open source software [licensed as MIT][license].
 
 ## Acknowledgments
 
@@ -146,3 +145,16 @@ This section can also be called as `Resources` or `References`
 * Articles that helped
 * Inspiration
 * etc
+
+[//]: # (HyperLinks)
+
+[GitHub Repository]: https://github.com/madhur-taneja/README-Template
+[GitHub Pages]: https://madhur-taneja.github.io/README-Template
+[CONTRIBUTING.md]: https://github.com/madhur-taneja/README-template/blob/master/CONTRIBUTING.md
+[tags]: https://github.com/madhur-taneja/README-template/tags
+
+[GitHub]: https://github.com/madhur-taneja
+[LinkedIn]: https://www.linkedin.com/in/madhur-taneja/
+
+[contributors]: https://github.com/madhur-taneja/README-template/contributors
+[license]: https://github.com/madhur-taneja/README-template/blob/master/LICENSE.md
